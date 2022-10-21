@@ -1,1 +1,7 @@
 /* You can add global styles to this file, and also import other style files */
+footer {
+    position: absolute;
+    bottom: 20px;
+    width: 70%;
+    box-shadow: 1px 1px 1px 1px rgba(32, 31, 31, 0.287);
+}

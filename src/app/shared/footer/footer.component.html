@@ -1,0 +1,6 @@
+<footer class="bg-light rounded-top">
+    <div class="container py-2">
+        <span *ngIf="user.autenticado" class="text-dark" >Autenticado: {{ user.usuario.nombre }} -  {{ user.usuario.dni }} </span>
+        <span *ngIf="!user.autenticado" class="text-danger" >No autenticado</span>
+    </div>
+</footer>

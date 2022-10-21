@@ -1,0 +1,5 @@
+{
+    "url": "https://sso-cerbero-des.cm-pre.jccm.es",
+    "realm": "usuarios",
+    "clientId": "dashboard"
+}
